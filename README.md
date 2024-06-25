@@ -25,13 +25,15 @@ Measurable (Medible): El sistema debe permitir la programación de al menos tres
 Achievable (Alcanzable): Utilizando tecnología existente como microcontroladores ESP8266/ESP32, sensores de peso y aplicaciones móviles.
 Relevant (Relevante): Facilitar la vida de los dueños de gatos proporcionando una herramienta que asegure la alimentación adecuada de sus mascotas, incluso cuando no están en casa.
 Time-bound (Con límite de tiempo): Completar el desarrollo del sistema en un plazo de 6 meses, con hitos mensuales para la evaluación del progreso.
-OKR:
+
+## Nuevos OKRs
 Objective: Desarrollar un sistema de alimentación inteligente para gatos.
-Key Result 1: hablar con los stakeholders y realizar el kanban en trello y recopilar los requerimientos.
-Key Result 2: Desarrollo del prototipo inicial. con un mvp.
-Key Result 3: Realizar el desarrollo de una App y una landing page inicial
-Key Result 4: Realizar el Desarrollo de la Conectividad del dispositivo con una APP
-Key Result 4: Desarrollo y pruebas de la aplicación
+Key Result 1: Hablar con los stakeholders y realizar el kanban en Trello y recopilar los requerimientos.
+Key Result 2: Desarrollo del prototipo inicial.
+## Key Result 3: rediseño de la extrusora y la tolva de Almacenado, y pruebas correspondientes para el MVP
+Key Result 4: Realizar el desarrollo de una App y una landing page inicial.
+Key Result 5: Realizar el desarrollo de la conectividad del dispositivo con una APP.
+Key Result 6: Desarrollo y pruebas de la aplicación.
 
 ## Análisis de Interesados(StakeHolders)
 Dueños de Gatos (Usuarios Finales)
@@ -82,3 +84,29 @@ Justificación: Proporciona flexibilidad para ajustar las prioridades en tiempo 
 ## Requerimientos
 Los Requerimientos se encuentran Detallados con su nomenclatura correspondiente en el KanBan de trello en el que se lleva a cabo las iteraciones del proyecto.
 https://trello.com/b/pUGB93sF/nutripet
+
+
+## **Modificaciones en la Planificación y Reajuste de la Metodología
+
+# Reajuste de la Metodología Ágil
+Para asegurar el cumplimiento de los objetivos del proyecto NutriPet, se ha decidido realizar un reajuste en la metodología ágil inicialmente seleccionada y extender un mes más el tiempo estimado de entrega para garantizar un producto viable
+
+# Problemas Encontrados Durante el Desarrollo del MVP
+Durante el desarrollo del MVP del prototipo inicial, nos encontramos con varios contratiempos significativos:
+Atascos en la Extrusora de Alimento: Algunas versiones de alimento para mascotas, especialmente aquellas con un tamaño inferior al considerado inicialmente, se atascan en la extrusora. Esto ocurre porque los pellets de comida pequeños quedan atorados en el mecanismo de distribución, lo que impide un flujo continuo de alimento.
+Solución Propuesta: Rediseñar la extrusora para manejar diferentes tamaños de pellets y realizar pruebas adicionales con varios tipos de alimentos para garantizar un funcionamiento suave.
+Fallas en el Movimiento de la Tolva del Reservorio de Alimento: Cuando la tolva del reservorio de alimento está completamente cargada, el peso del alimento genera fallas en el movimiento del sistema. Esto puede deberse tanto al diseño de la tolva como al torque del motor del dispensador.
+Solución Propuesta:
+Reforzar el diseño de la tolva para soportar mejor el peso del alimento.
+Utilizar un motor con mayor torque que pueda manejar el peso adicional sin problemas.
+
+# Ajustes en la Planificación
+Debido a estos contratiempos, hemos realizado los siguientes ajustes en la planificación:
+   Sprint Adicional para Rediseño y Pruebas: Se añadirá un sprint adicional dedicado exclusivamente al rediseño de la extrusora y la tolva del reservorio, así como a las pruebas con diferentes tipos de alimentos para asegurar que los problemas se han resuelto.
+
+   Incremento en la Iteración de Pruebas: Aumentaremos la cantidad de pruebas y ajustes en cada sprint para identificar y resolver posibles problemas antes de avanzar a la siguiente fase del desarrollo.
+
+   Revisión y Actualización del Kanban en Trello: El tablero Kanban en Trello será actualizado con las nuevas tareas y ajustes necesarios para abordar los problemas encontrados. Se priorizarán las tareas críticas para asegurar que el MVP esté completamente funcional antes de pasar al desarrollo de la aplicación y la conectividad.
+
+Con estas modificaciones, el proyecto NutriPet está mejor posicionado para alcanzar sus objetivos, asegurando un sistema de alimentación inteligente y confiable para gatos.
+
