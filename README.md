@@ -33,4 +33,31 @@ Key Result 3: Realizar el desarrollo de una App y una landing page inicial
 Key Result 4: Realizar el Desarrollo de la Conectividad del dispositivo con una APP
 Key Result 4: Desarrollo y pruebas de la aplicación
 
+Análisis de Interesados
+Dueños de Gatos (Usuarios Finales)
+Intereses: Asegurar que sus gatos estén bien alimentados y monitoreados incluso cuando no están en casa. Facilitar la alimentación de sus mascotas con una herramienta confiable y fácil de usar.
+Influencias: Alta, ya que son los principales usuarios del sistema y su satisfacción es crucial para el éxito del proyecto.
+Expectativas:
+Interfaz de usuario intuitiva y amigable.
+Funcionalidad confiable y precisa para la programación de comidas y monitoreo del nivel de alimento.
+Notificaciones oportunas sobre el nivel de alimento y el estado del sistema.
+Rol: Usuarios y validadores del sistema.
+
+Veterinarios y Expertos en Nutrición Animal
+Intereses: Promover la salud y el bienestar de los gatos a través de una alimentación adecuada y controlada.
+Influencias: Media, ya que pueden recomendar el uso del sistema a sus clientes y proporcionar validación técnica y científica sobre los beneficios del sistema.
+Expectativas:
+Precisión en el pesaje de la comida y en la programación de las porciones.
+Información detallada sobre los hábitos alimenticios de los gatos que pueda ser utilizada para ajustes dietéticos.
+Datos fiables y consistentes para su análisis y recomendaciones.
+Rol: Asesores y promotores del sistema.
+
+Inversionistas y Accionistas
+Intereses: Rentabilidad del proyecto, retorno de inversión, y crecimiento en el mercado de productos para mascotas.
+Influencias: Alta, ya que proporcionan los fondos necesarios para el desarrollo y expansión del proyecto.
+Expectativas:
+Progresos medibles y reportes regulares sobre el desarrollo del proyecto.
+Estrategias claras de monetización y expansión de mercado.
+Garantía de que el proyecto cumple con los plazos y objetivos establecidos.
+Rol: Financistas y supervisores del proyecto.
 
