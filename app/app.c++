@@ -81,7 +81,7 @@ void loop() {
 
 void medirDistanciaYActualizarBlynk() {
   float distancia = hc.dist(); // Obtener la distancia
-  float porcentaje = map(distancia, 2, 20, 100, 0); // Mapear la distancia a porcentaje
+  float porcentaje = map(distancia, 2, 10, 100, 0); // Mapear la distancia a porcentaje
   porcentaje = constrain(porcentaje, 0, 100);
 
   Serial.print("Distancia medida: ");
